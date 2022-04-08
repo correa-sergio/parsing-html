@@ -37,7 +37,7 @@ Note: Please don't use this script on servers that you don't have permissions fo
 ```bash
 ./parsing_html.sh
 ```
-- Output
+- Input
 
 ```bash
 Usage example: 
